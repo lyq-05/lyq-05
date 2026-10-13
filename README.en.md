@@ -6,19 +6,17 @@ I build useful products with AI agents, starting from everyday ideas. Learning b
 
 ### Things I'm building
 
-| Project | The idea behind it |
-| :--- | :--- |
-| **[Youyu Ledger](https://github.com/lyq-05/youyu-ledger)** | A local Android ledger with a hand-drawn feel, built for everyday tracking. |
-| **[Personal Workbench](https://github.com/lyq-05/personal-workbench)** | A personal space for plans, focus, knowledge, and journaling. |
-| **[Nianhen](https://github.com/lyq-05/nianhen)** | Customizable photo watermarks for everyday moments and work records. |
+<p align="center">
+  <a href="https://github.com/lyq-05/youyu-ledger"><img src="assets/project-ledger-en.png" width="32%" alt="Youyu Ledger: Everyday tracking, with a hand-drawn feel. View project"></a>
+  <a href="https://github.com/lyq-05/personal-workbench"><img src="assets/project-workbench-en.png" width="32%" alt="Personal Workbench: Plans, focus, notes—a space of your own. View project"></a>
+  <a href="https://github.com/lyq-05/nianhen"><img src="assets/project-nianhen-en.png" width="32%" alt="Nianhen: Photo watermarks for life and work. View project"></a>
+</p>
 
 ### Learning by making
 
 Working with agents · Product experience · From prototype to release
 
-I'm also working on [Kemai-tu](https://github.com/lyq-05/kemai-tu) and [CareerFlow](https://github.com/lyq-05/careerflow), and sharing my release workflow as a [GitHub Release Skill](https://github.com/lyq-05/agent-skill-github-releases).
-
-<sub>Some repositories contain product showcases and downloads; their source code remains private.</sub>
+More to explore: [Kemai-tu](https://github.com/lyq-05/kemai-tu) · [CareerFlow](https://github.com/lyq-05/careerflow) · [GitHub Release Skill](https://github.com/lyq-05/agent-skill-github-releases)
 
 ---
 

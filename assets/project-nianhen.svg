@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450" role="img" aria-label="念痕 · 为照片留下一行注脚 · 记录生活，也记录工作">
+  <defs><filter id="paper" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" seed="8" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".1"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter></defs>
+  <rect x="6" y="9" width="584" height="436" rx="18" fill="#b57047" opacity=".22"/>
+  <rect x="2" y="2" width="584" height="434" rx="18" fill="#f5e8ce" filter="url(#paper)"/>
+  <path d="M19 9Q180 5 380 10L568 9Q580 9 579 24L581 411Q579 428 562 429L24 427Q9 427 10 408L9 24Q10 9 19 9Z" fill="none" stroke="#bd9770" stroke-width="1.8"/>
+  <path d="M26 137Q120 109 213 127M30 150Q134 126 204 141" fill="none" stroke="#e89c64" stroke-width="13" stroke-linecap="round" opacity=".28"/>
+  <g transform="translate(27 31)" stroke="#624b39" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" fill="none"><path d="M25 30L51 28L61 13L103 13L113 29L145 31L145 99L25 99Z" fill="#f7ead1"/><circle cx="85" cy="65" r="25" fill="#e5a162"/><circle cx="85" cy="65" r="16" fill="#faecd3"/><path d="M118 43H130M38 44H45"/><path d="M51 105L133 105M56 112L113 112" stroke="#c65330" stroke-width="3"/></g>
+  <text x="536" y="69" text-anchor="end" fill="#af7150" font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif" font-size="26" letter-spacing="3">03</text>
+  <text x="37" y="221" fill="#372f28" font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif" font-size="49" font-weight="600">念痕</text>
+  <text x="39" y="282" fill="#695447" font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif" font-size="35">为照片留下一行注脚</text>
+  <text x="39" y="332" fill="#695447" font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif" font-size="35">记录生活，也记录工作</text>
+  <text x="39" y="400" fill="#b74e2c" font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif" font-size="29">查看作品</text>
+  <path d="M482 388Q511 384 542 387M528 374L543 387L528 399" fill="none" stroke="#b74e2c" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>

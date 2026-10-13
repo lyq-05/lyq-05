@@ -14,14 +14,14 @@
   </defs>
   <g clip-path="url(#edge)">
     <rect width="1280" height="300" fill="#f5e8ce" filter="url(#paper)"/>
-    <g filter="url(#brush)">
+    <g transform="translate(312 45) scale(.70)" filter="url(#brush)">
       <path d="M910 22C1003-21 1143 2 1192 79C1232 141 1209 241 1127 280C1033 325 928 279 889 212C854 152 861 61 910 22Z" fill="#d95829"/>
       <path d="M920 42C1029-2 1139 20 1177 90" fill="none" stroke="#eb8843" stroke-width="12" opacity=".65"/>
       <path d="M878 205Q1014 303 1198 211M880 227Q1022 308 1167 258" fill="none" stroke="#bf4726" stroke-width="9" opacity=".5"/>
       <path d="M1032 55C1036 105 976 122 984 169C986 191 1004 208 1027 211C996 186 1028 160 1041 146C1040 173 1071 177 1059 210C1091 198 1108 174 1097 147C1088 127 1072 120 1070 99C1056 111 1054 121 1056 131C1038 112 1051 84 1032 55Z" fill="#f7e7c9"/>
     </g>
     <g fill="none" stroke-linecap="round">
-      <path d="M874 246L908 230M888 259L915 247M1179 37L1196 22M1193 49L1215 40" stroke="#d56938" stroke-width="3"/>
+      <path d="M926 217L945 205M938 230L956 219M1154 68L1167 56M1164 80L1180 73" stroke="#d56938" stroke-width="3"/>
       <path d="M65 244Q226 234 473 242M70 254Q216 245 381 249" stroke="#c9502e" stroke-width="3"/>
       <path d="M65 244Q205 241 472 242" stroke="#eaa065" stroke-width="1.4"/>
     </g>

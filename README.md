@@ -6,19 +6,17 @@
 
 ### 正在打磨
 
-| 作品 | 想解决的小问题 |
-| :--- | :--- |
-| **[有余记账](https://github.com/lyq-05/youyu-ledger)** | 有手绘温度的本地账本，让日常收支更容易记录。 |
-| **[个人工作台](https://github.com/lyq-05/personal-workbench)** | 把计划、专注、知识与日记放进自己的工作空间。 |
-| **[念痕](https://github.com/lyq-05/nianhen)** | 用可调整的照片水印，留下生活与工作的记录。 |
+<p align="center">
+  <a href="https://github.com/lyq-05/youyu-ledger"><img src="assets/project-ledger.png" width="32%" alt="有余记账：日常收支，随手记录。一本有手绘温度的账本。查看作品"></a>
+  <a href="https://github.com/lyq-05/personal-workbench"><img src="assets/project-workbench.png" width="32%" alt="个人工作台：计划、专注、知识与日记，放进自己的工作空间。查看作品"></a>
+  <a href="https://github.com/lyq-05/nianhen"><img src="assets/project-nianhen.png" width="32%" alt="念痕：为照片留下一行注脚，记录生活，也记录工作。查看作品"></a>
+</p>
 
 ### 边做边学
 
 Agent 协作 · 产品体验 · 从原型到发布
 
-也在做 [客脉图](https://github.com/lyq-05/kemai-tu) 和 [CareerFlow](https://github.com/lyq-05/careerflow)，并把发布经验整理成了 [GitHub 发布 Skill](https://github.com/lyq-05/agent-skill-github-releases)。
-
-<sub>部分仓库提供作品展示与安装包，源码保持私有。</sub>
+更多探索：[客脉图](https://github.com/lyq-05/kemai-tu) · [CareerFlow](https://github.com/lyq-05/careerflow) · [GitHub 发布 Skill](https://github.com/lyq-05/agent-skill-github-releases)
 
 ---
 
