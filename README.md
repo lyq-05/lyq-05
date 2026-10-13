@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **[有余记账](https://github.com/lyq-05/youyu-ledger)** | 有手绘温度的本地账本，让日常收支更容易记录。 |
 | **[个人工作台](https://github.com/lyq-05/personal-workbench)** | 把计划、专注、知识与日记放进自己的工作空间。 |
-| **[年痕](https://github.com/lyq-05/nianhen)** | 用可调整的照片水印，留下生活与工作的记录。 |
+| **[念痕](https://github.com/lyq-05/nianhen)** | 用可调整的照片水印，留下生活与工作的记录。 |
 
 ### 边做边学
 
