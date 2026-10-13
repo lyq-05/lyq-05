@@ -20,4 +20,4 @@ Agent 协作 · 产品体验 · 从原型到发布
 
 ---
 
-<p align="center">让想法有一个可以被使用的形状。<br><a href="https://github.com/lyq-05?tab=repositories">浏览全部作品 →</a></p>
+<p align="center">让想法有一个可以被使用的形状，<br>让作品在日常的磨合里，慢慢长成更好的模样。<br><br><a href="https://github.com/lyq-05?tab=repositories">浏览全部作品 →</a></p>

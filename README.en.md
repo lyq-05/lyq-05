@@ -20,4 +20,4 @@ More to explore: [Kemai-tu](https://github.com/lyq-05/kemai-tu) · [CareerFlow](
 
 ---
 
-<p align="center">Give an idea a form people can use.<br><a href="https://github.com/lyq-05?tab=repositories">Explore all projects →</a></p>
+<p align="center">Give ideas a form people can use,<br>and let everyday use shape them into something better.<br><br><a href="https://github.com/lyq-05?tab=repositories">Explore all projects →</a></p>
