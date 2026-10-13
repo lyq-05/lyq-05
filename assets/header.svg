@@ -1,13 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="栖火 · LYQ — Ideas into products">
-  <rect width="1280" height="300" rx="22" fill="#F6EBDD"/>
-  <path d="M836 0H1258Q1280 0 1280 22V278Q1280 300 1258 300H888L798 148Z" fill="#DC542E"/>
-  <path d="M882 0L817 149L905 300" fill="none" stroke="#EF9D54" stroke-width="9"/>
-  <circle cx="1080" cy="149" r="81" fill="none" stroke="#F6EBDD" stroke-width="2" opacity=".6"/>
-  <circle cx="1080" cy="149" r="57" fill="none" stroke="#F6EBDD" stroke-width="1" opacity=".35"/>
-  <path d="M1017 184L1080 88L1143 184L1080 162Z" fill="#F6EBDD"/>
-  <path d="M1080 88V162L1143 184Z" fill="#F1AF74"/>
-  <text x="66" y="57" fill="#B54B30" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="5">BUILDING WITH AGENTS</text>
-  <text x="62" y="157" fill="#302D2B" font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif" font-weight="700" font-size="80">栖火 · LYQ</text>
-  <text x="68" y="215" fill="#574B43" font-family="Segoe UI,Arial,sans-serif" font-size="29">Ideas into products.</text>
-  <path d="M68 239Q207 233 390 237M70 247Q207 239 301 244" stroke="#DC542E" stroke-width="3" fill="none" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="栖火 · LYQ — 把想法做成作品">
+  <defs>
+    <filter id="paper" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" seed="8" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".13"/></feComponentTransfer>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+    <filter id="brush" x="-8%" y="-8%" width="116%" height="116%">
+      <feTurbulence type="fractalNoise" baseFrequency=".035" numOctaves="3" seed="12" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="5" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <clipPath id="edge"><rect width="1280" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#edge)">
+    <rect width="1280" height="300" fill="#f5e8ce" filter="url(#paper)"/>
+    <g filter="url(#brush)">
+      <path d="M910 22C1003-21 1143 2 1192 79C1232 141 1209 241 1127 280C1033 325 928 279 889 212C854 152 861 61 910 22Z" fill="#d95829"/>
+      <path d="M920 42C1029-2 1139 20 1177 90" fill="none" stroke="#eb8843" stroke-width="12" opacity=".65"/>
+      <path d="M878 205Q1014 303 1198 211M880 227Q1022 308 1167 258" fill="none" stroke="#bf4726" stroke-width="9" opacity=".5"/>
+      <path d="M1032 55C1036 105 976 122 984 169C986 191 1004 208 1027 211C996 186 1028 160 1041 146C1040 173 1071 177 1059 210C1091 198 1108 174 1097 147C1088 127 1072 120 1070 99C1056 111 1054 121 1056 131C1038 112 1051 84 1032 55Z" fill="#f7e7c9"/>
+    </g>
+    <g fill="none" stroke-linecap="round">
+      <path d="M874 246L908 230M888 259L915 247M1179 37L1196 22M1193 49L1215 40" stroke="#d56938" stroke-width="3"/>
+      <path d="M65 244Q226 234 473 242M70 254Q216 245 381 249" stroke="#c9502e" stroke-width="3"/>
+      <path d="M65 244Q205 241 472 242" stroke="#eaa065" stroke-width="1.4"/>
+    </g>
+    <text x="65" y="58" fill="#a24c31" font-family="Microsoft YaHei,Segoe UI,sans-serif" font-size="18" letter-spacing="4">探索 · 创造 · 打磨</text>
+    <text x="61" y="157" fill="#352f29" font-family="KaiTi,STKaiti,Microsoft YaHei,serif" font-weight="700" font-size="80">栖火 · LYQ</text>
+    <text x="66" y="212" fill="#695447" font-family="Microsoft YaHei,Segoe UI,sans-serif" font-size="28">把想法做成作品。</text>
+  </g>
 </svg>
